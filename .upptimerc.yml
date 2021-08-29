@@ -4,9 +4,9 @@ repo: Status # The name of this repository
 
 sites:
   - name: T:Riza Site
-     url: https://www.triza.dev
+    url: https://www.triza.dev
   - name: T:Riza Api
-     url: https://api.triza.dev/v1/checkuptime
+    url: https://api.triza.dev/v1/checkuptime
   - name: Google
     url: https://www.google.com
   - name: Roblox
