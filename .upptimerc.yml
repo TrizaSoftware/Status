@@ -11,6 +11,8 @@ sites:
     url: https://www.google.com
   - name: Roblox
     url: https://www.roblox.com
+  - name: Cloudflare
+    url: https://www.cloudflare.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
