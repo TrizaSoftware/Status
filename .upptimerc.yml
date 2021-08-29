@@ -16,7 +16,7 @@ status-website:
   cname: beta-status.triza.dev
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: T:Riza Status
   introTitle: "Status Page for Tracking all Incidents which relate to T:Riza"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/TrizaCorporation/Status).
   navbar:
