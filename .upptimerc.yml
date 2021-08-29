@@ -9,6 +9,9 @@ sites:
   - name: T:Riza Api
     url: https://api.triza.dev/v1/checkuptime
     maxResponseTime: 1000
+   - name: RbxVeri
+    url: https://verify.triza.dev
+    maxResponseTime: 1000
   - name: Roblox
     url: https://www.roblox.com
     maxResponseTime: 1000
