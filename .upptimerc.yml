@@ -5,14 +5,22 @@ repo: Status # The name of this repository
 sites:
   - name: T:Riza Site
     url: https://www.triza.dev
+    maxResponseTime: 1000
   - name: T:Riza Api
     url: https://api.triza.dev/v1/checkuptime
-  - name: Google
-    url: https://www.google.com
+    maxResponseTime: 1000
   - name: Roblox
     url: https://www.roblox.com
+    maxResponseTime: 1000
+  - name: Roblox Group Api
+    url: https://groups.roblox.com/v1/groups/metadata
+    maxResponseTime: 1000
+  - name: Google
+    url: https://www.google.com
+    maxResponseTime: 1000
   - name: Cloudflare
     url: https://www.cloudflare.com
+    maxResponseTime: 1000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
