@@ -13,8 +13,7 @@ sites:
     url: https://verify.triza.dev
     maxResponseTime: 1000
   - name: Roblox
-    url: https://roblox.roblox
-  #  url: https://www.roblox.com
+    url: https://www.roblox.com
     maxResponseTime: 1000
   - name: Roblox Group Api
     url: https://groups.roblox.com/v1/groups/metadata
