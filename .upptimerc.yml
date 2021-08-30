@@ -18,6 +18,9 @@ sites:
   - name: Roblox Group Api
     url: https://groups.roblox.com/v1/groups/metadata
     maxResponseTime: 1000
+  - name: Roblox TextFilter Api
+    url: https://textfilter.roblox.com
+    maxResponseTime: 1000
   - name: Google
     url: https://www.google.com
     maxResponseTime: 1000
