@@ -1,7 +1,7 @@
 url: https://api.triza.dev/v1/checkuptime
-status: up
+status: degraded
 code: 200
-responseTime: 370
-lastUpdated: 2021-09-03T23:17:11.237Z
+responseTime: 6844
+lastUpdated: 2021-09-04T13:37:23.270Z
 startTime: Sun Aug 29 2021 19:33:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
