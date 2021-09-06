@@ -28,7 +28,7 @@ sites:
     url: https://www.cloudflare.com
     maxResponseTime: 1000
   - name: Discord
-    url: https://www.discord.com
+    url: https://discord.com
     maxResponseTime: 1000
     
 status-website:
