@@ -24,9 +24,6 @@ sites:
   - name: Roblox DataStore Api
     url: https://gamepersistence.roblox.com
     maxResponseTime: 1000
-  - name: Google
-    url: https://www.google.com
-    maxResponseTime: 1000
   - name: Cloudflare
     url: https://www.cloudflare.com
     maxResponseTime: 1000
