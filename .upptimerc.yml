@@ -7,7 +7,7 @@ sites:
     url: https://www.triza.dev
     maxResponseTime: 1000
   - name: T:Riza Api
-    url: https://api.triza.dev/v1/checkuptime
+    url: https://api.triza.dev
     maxResponseTime: 1000
   - name: RbxVeri
     url: https://verify.triza.dev
@@ -16,7 +16,7 @@ sites:
     url: https://www.roblox.com
     maxResponseTime: 1000
   - name: Roblox Group Api
-    url: https://groups.roblox.com/v1/groups/metadata
+    url: https://groups.roblox.com
     maxResponseTime: 1000
   - name: Roblox TextFilter Api
     url: https://textfilter.roblox.com
