@@ -31,7 +31,7 @@ sites:
     url: https://discord.com
     maxResponseTime: 1000
   - name: Google
-    url: https://google.com
+    url: https://www.google.com
     maxResponseTime: 1000
     
 status-website:
