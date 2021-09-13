@@ -6,8 +6,8 @@ sites:
   - name: T:Riza
     url: https://www.triza.dev
     maxResponseTime: 1000
-  - name: T:Riza Api
-    url: https://api.triza.dev
+  - name: T:Riza Internals
+    url: https://internals.triza.dev
     maxResponseTime: 1000
   - name: RbxVeri
     url: https://verify.triza.dev
