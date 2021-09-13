@@ -20,34 +20,6 @@
     }
   },
   {
-    "name": "T:Riza Api",
-    "url": "https://api.triza.dev",
-    "icon": "https://favicons.githubusercontent.com/api.triza.dev",
-    "slug": "t-riza-api",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 1220,
-    "timeDay": 3147,
-    "timeWeek": 1854,
-    "timeMonth": 1220,
-    "timeYear": 1220,
-    "dailyMinutesDown": {
-      "2021-09-13": 42,
-      "2021-09-12": 11,
-      "2021-09-11": 23,
-      "2021-09-09": 17,
-      "2021-09-06": 36,
-      "2021-09-04": 7,
-      "2021-09-01": 6,
-      "2021-08-30": 18,
-      "2021-08-29": 28
-    }
-  },
-  {
     "name": "RbxVeri",
     "url": "https://verify.triza.dev",
     "icon": "https://favicons.githubusercontent.com/verify.triza.dev",
