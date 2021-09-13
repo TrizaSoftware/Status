@@ -6,7 +6,7 @@ sites:
   - name: T:Riza
     url: https://www.triza.dev
     maxResponseTime: 1000
-  - name: T:Riza Api
+  - name: T:Riza Core Api
     url: https://api.triza.dev
     maxResponseTime: 1000
   - name: RbxVeri
