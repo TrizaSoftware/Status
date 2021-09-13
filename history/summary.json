@@ -4,19 +4,19 @@
     "url": "https://www.triza.dev",
     "icon": "https://favicons.githubusercontent.com/www.triza.dev",
     "slug": "t-riza",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1330,
-    "timeDay": 3434,
-    "timeWeek": 1330,
-    "timeMonth": 1330,
-    "timeYear": 1330,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 1238,
+    "timeDay": 2519,
+    "timeWeek": 1238,
+    "timeMonth": 1238,
+    "timeYear": 1238,
     "dailyMinutesDown": {
-      "2021-09-13": 0
+      "2021-09-13": 16
     }
   },
   {
