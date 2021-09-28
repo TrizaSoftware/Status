@@ -203,19 +203,19 @@
     "url": "https://discord.com",
     "icon": "https://favicons.githubusercontent.com/discord.com",
     "slug": "discord",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 72,
-    "timeDay": 92,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 73,
+    "timeDay": 90,
     "timeWeek": 77,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "timeMonth": 73,
+    "timeYear": 73,
     "dailyMinutesDown": {
-      "2021-09-28": 21
+      "2021-09-28": 41
     }
   },
   {
