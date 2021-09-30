@@ -9,6 +9,9 @@ sites:
   - name: T:Riza Api
     url: https://api.triza.dev
     maxResponseTime: 1000
+  - name: T:Riza Forum
+    url: https://forums.triza.dev
+    maxResponseTime: 1000
   - name: RbxVeri
     url: https://verify.triza.dev
     maxResponseTime: 1000
