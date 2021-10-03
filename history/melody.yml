@@ -1,7 +1,7 @@
 url: https://melody.triza.dev
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2021-10-03T20:16:19.278Z
+status: degraded
+code: 502
+responseTime: 10705
+lastUpdated: 2021-10-03T20:31:26.140Z
 startTime: Thu Sep 23 2021 10:24:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
