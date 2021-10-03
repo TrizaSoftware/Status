@@ -5,43 +5,43 @@ repo: Status # The name of this repository
 sites:
   - name: T:Riza
     url: https://www.triza.dev
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: T:Riza Api
     url: https://api.triza.dev
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: T:Riza Forum
     url: https://forums.triza.dev
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: RbxVeri
     url: https://verify.triza.dev
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Melody
     url: https://melody.triza.dev
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Melody Test
     url: https://beta.melody.triza.dev
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Roblox
     url: https://www.roblox.com
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Roblox Group Api
     url: https://groups.roblox.com
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Roblox TextFilter Api
     url: https://textfilter.roblox.com
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Roblox DataStore Api
     url: https://gamepersistence.roblox.com
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Cloudflare
     url: https://www.cloudflare.com
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Discord
     url: https://discord.com
-    maxResponseTime: 1000
+    maxResponseTime: 800
   - name: Google
     url: https://www.google.com
-    maxResponseTime: 1000
+    maxResponseTime: 800
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -65,6 +65,6 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/4 * * * *"
+  uptime: "*/1 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
