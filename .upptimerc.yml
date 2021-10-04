@@ -39,9 +39,6 @@ sites:
   - name: Discord
     url: https://discord.com
     maxResponseTime: 800
-  - name: Google
-    url: https://www.google.com
-    maxResponseTime: 800
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
