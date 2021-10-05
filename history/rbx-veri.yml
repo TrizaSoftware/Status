@@ -1,7 +1,7 @@
 url: https://verify.triza.dev
-status: degraded
+status: up
 code: 200
-responseTime: 22121
-lastUpdated: 2021-10-05T19:31:31.779Z
+responseTime: 587
+lastUpdated: 2021-10-05T19:39:40.811Z
 startTime: Sun Aug 29 2021 22:32:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
