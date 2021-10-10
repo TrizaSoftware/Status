@@ -1,7 +1,7 @@
 url: https://textfilter.roblox.com
-status: degraded
-code: 503
-responseTime: 10348
-lastUpdated: 2021-10-10T14:11:56.649Z
+status: up
+code: 200
+responseTime: 65
+lastUpdated: 2021-10-10T14:26:13.623Z
 startTime: Mon Aug 30 2021 03:25:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
