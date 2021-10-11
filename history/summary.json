@@ -113,7 +113,7 @@
     "slug": "melody",
     "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "98.34%",
     "uptimeYear": "98.34%",
@@ -123,7 +123,7 @@
     "timeMonth": 333,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2021-10-11": 0,
+      "2021-10-11": 1,
       "2021-10-10": 7,
       "2021-10-08": 9,
       "2021-10-07": 19,
