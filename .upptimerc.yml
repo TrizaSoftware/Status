@@ -18,9 +18,6 @@ sites:
   - name: Melody
     url: https://melody.triza.dev
     maxResponseTime: 800
-  - name: Melody Test
-    url: https://beta.melody.triza.dev
-    maxResponseTime: 800
   - name: Roblox
     url: https://www.roblox.com
     maxResponseTime: 800
