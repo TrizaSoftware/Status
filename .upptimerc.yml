@@ -5,40 +5,40 @@ repo: Status # The name of this repository
 sites:
   - name: T:Riza
     url: https://www.triza.dev
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: T:Riza Api
     url: https://api.triza.dev
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: T:Riza Docs
     url: https://docs.triza.dev
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: T:Riza Forum
     url: https://forum.triza.dev
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: RbxVeri
     url: https://verify.triza.dev
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: Melody
     url: https://melody.triza.dev
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: Roblox
     url: https://www.roblox.com
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: Roblox Group Api
     url: https://groups.roblox.com
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: Roblox TextFilter Api
     url: https://textfilter.roblox.com
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: Roblox DataStore Api
     url: https://gamepersistence.roblox.com
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: Cloudflare
     url: https://www.cloudflare.com
-    maxResponseTime: 800
+    maxResponseTime: 1000
   - name: Discord
     url: https://discord.com
-    maxResponseTime: 800
+    maxResponseTime: 1000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
