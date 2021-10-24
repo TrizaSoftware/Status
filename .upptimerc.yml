@@ -10,7 +10,7 @@ sites:
     url: https://api.triza.dev
     maxResponseTime: 800
   - name: T:Riza Docs
-    url: docs.triza.dev
+    url: https://docs.triza.dev
     maxResponseTime: 800
   - name: T:Riza Forum
     url: https://forum.triza.dev
