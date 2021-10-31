@@ -6,7 +6,7 @@ sites:
   - name: T:Riza
     url: https://www.triza.dev
     maxResponseTime: 1000
-  - name: T:Riza Infra
+  - name: T:Riza Api
     url: https://infra.triza.dev/api
     maxResponseTime: 1000
   - name: T:Riza Docs
