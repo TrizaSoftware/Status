@@ -55,7 +55,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Forum
-      href: https://forum.triza.dev
+      href: https://community.triza.dev
   theme: dark
 workflowSchedule:
   graphs: "0 0 * * *"
