@@ -12,8 +12,8 @@ sites:
   - name: T:Riza Docs
     url: https://docs.triza.dev
     maxResponseTime: 1000
-  - name: T:Riza Forum
-    url: https://forum.triza.dev
+  - name: T:Riza Community Forum
+    url: https://community.triza.dev
     maxResponseTime: 1000
   - name: RbxVeri
     url: https://verify.triza.dev
