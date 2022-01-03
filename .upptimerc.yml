@@ -15,6 +15,9 @@ sites:
   - name: T:Riza Community Forum
     url: https://community.triza.dev
     maxResponseTime: 1000
+  - name: T:Riza Roblox Proxy
+    url: https://rprxy.triza.dev
+    maxResponseTime: 1000
   - name: RbxVeri
     url: https://verify.triza.dev
     maxResponseTime: 1000
