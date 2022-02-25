@@ -23,6 +23,8 @@ sites:
     maxResponseTime: 1000
   - name: Melody
     url: https://melody.triza.dev
+  - name: Melody Beta
+    url: https://canary.melody.api.triza.dev
     maxResponseTime: 1000
   - name: Roblox
     url: https://www.roblox.com
@@ -67,6 +69,6 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/7 * * * *"
+  uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
