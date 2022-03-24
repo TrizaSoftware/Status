@@ -1,7 +1,7 @@
 url: https://canary.melody.api.triza.dev
-status: up
+status: degraded
 code: 200
-responseTime: 468
-lastUpdated: 2022-03-24T17:52:09.010Z
+responseTime: 2841
+lastUpdated: 2022-03-24T18:27:35.288Z
 startTime: Fri Feb 25 2022 17:16:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
