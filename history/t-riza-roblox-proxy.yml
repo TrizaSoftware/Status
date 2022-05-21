@@ -1,7 +1,7 @@
 url: https://rprxy.triza.dev
-status: up
+status: degraded
 code: 200
-responseTime: 685
-lastUpdated: 2022-05-21T12:39:25.907Z
+responseTime: 3240
+lastUpdated: 2022-05-21T12:47:00.463Z
 startTime: Mon Jan 03 2022 22:53:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
