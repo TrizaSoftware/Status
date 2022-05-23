@@ -1,7 +1,7 @@
 url: https://infra.triza.dev/api
-status: up
+status: degraded
 code: 200
-responseTime: 749
-lastUpdated: 2022-05-23T08:29:49.465Z
+responseTime: 1447
+lastUpdated: 2022-05-23T08:35:30.922Z
 startTime: Sun Oct 31 2021 17:58:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
