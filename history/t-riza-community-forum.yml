@@ -1,7 +1,7 @@
 url: https://community.triza.dev
-status: up
+status: degraded
 code: 200
-responseTime: 376
-lastUpdated: 2022-05-22T23:48:33.860Z
+responseTime: 2285
+lastUpdated: 2022-05-23T00:48:47.177Z
 startTime: Wed Dec 29 2021 17:52:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
