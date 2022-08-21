@@ -1,7 +1,7 @@
 url: https://docs.triza.dev
-status: degraded
-code: 500
-responseTime: 6821
-lastUpdated: 2022-08-21T22:00:27.036Z
+status: up
+code: 200
+responseTime: 470
+lastUpdated: 2022-08-21T22:17:31.258Z
 startTime: Sun Oct 24 2021 03:19:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
